@@ -3,11 +3,13 @@
 </p>
 
 # BillMe
-A Finance Manager System where the user can Input an Income or an Expense, Graph is also available for a clear presentation.
 
-# Features of the BillMe Application
+## Overview
+The BillMe application is designed to help users manage their financial transactions effectively. It features user management, transaction handling, data visualization, and an intuitive user interface.
 
-## User Management
+## Features of BillMe
+
+### User Management
 - **User Registration**
   - Allows new users to register with a unique username and password.
   - Prevents duplicate registrations by checking for existing usernames.
@@ -20,7 +22,7 @@ A Finance Manager System where the user can Input an Income or an Expense, Graph
   - Updates user balances automatically based on transactions.
   - View current balance within the user menu.
 
-## Transaction Management
+### Transaction Management
 - **Add Transactions**
   - Users can add new transactions with details like date, amount, category, and description.
   - Supports both income and expense entries.
@@ -35,17 +37,17 @@ A Finance Manager System where the user can Input an Income or an Expense, Graph
   - Appends new transactions to the user’s CSV file.
   - Reads and filters transactions from the CSV file based on a date range.
 
-## Data Visualization
+### Data Visualization
 - **Transaction Plotting**
   - Generates a visual plot of income and expense trends over time.
   - Uses Matplotlib to display line graphs for better insights.
 
-## Date Handling
+### Date Handling
 - **Flexible Date Parsing**
   - Accepts multiple date formats during transaction entry.
   - Automatically parses and standardizes dates for consistency.
 
-## User Interface
+### User Interface
 - **Main Menu Navigation**
   - Offers a simple text-based interface for navigating registration, login, and user operations.
   - Separate menus for registration, login, and user-specific actions.
