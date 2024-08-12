@@ -5,7 +5,7 @@
 # BillMe
 
 ## Overview
-The BillMe application is designed to help users manage their financial transactions effectively. It features user management, transaction handling, data visualization, and an intuitive user interface.
+BillMe is designed to help users manage their financial transactions effectively. It features user management, transaction handling, data visualization, and an intuitive user interface.
 
 ## Features of BillMe
 
